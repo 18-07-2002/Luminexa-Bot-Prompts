@@ -13,6 +13,7 @@ We hope you find these prompts useful and have fun using Luminexa Bot!
 
 ℹ️ NOTE: Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
 
+# Prompts with System Message
 
 Act as a Linux Terminal
 
